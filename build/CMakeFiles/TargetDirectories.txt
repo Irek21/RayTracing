@@ -1,0 +1,3 @@
+/home/irek/Works/NormalMG/323_kamalov/build/CMakeFiles/rebuild_cache.dir
+/home/irek/Works/NormalMG/323_kamalov/build/CMakeFiles/rt.dir
+/home/irek/Works/NormalMG/323_kamalov/build/CMakeFiles/edit_cache.dir

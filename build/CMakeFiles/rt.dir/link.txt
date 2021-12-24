@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -O3 -DNDEBUG   CMakeFiles/rt.dir/main.cpp.o  -o rt 
